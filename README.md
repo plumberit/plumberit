@@ -3,6 +3,6 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0]</code>
-<code>🧑‍💻 Languages: Java</code>
+<code>🧑‍💻 Languages: Java</code><br>
 <code>💬 telegram: [@smboncetoldme](https://telegram.me/smboncetoldme)</code>
 <code>📫 [shapovalov.dk@gmail.com](mailto:shapovalov.dk@gmail.com)</code>
